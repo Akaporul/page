@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/common/</loc>
+    <loc>https://akaporul.github.io/page/common/</loc>
     <lastmod>2022-01-25T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>/kemamman/</loc>
+    <loc>https://akaporul.github.io/page/kemamman/</loc>
     <lastmod>2022-01-25T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>/common/about/</loc>
+    <loc>https://akaporul.github.io/page/common/about/</loc>
     <lastmod>2022-01-25T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>/sandesham/</loc>
+    <loc>https://akaporul.github.io/page/sandesham/</loc>
     <lastmod>2022-01-25T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://akaporul.github.io/page/</loc>
     <lastmod>2022-01-25T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://akaporul.github.io/page/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://akaporul.github.io/page/tags/</loc>
   </url>
 </urlset>
